@@ -14,4 +14,13 @@ Fiddler: Primarily used for web traffic, it can inspect HTTP/HTTPS requests and 
 
 Nmap: While primarily a network scanner, it has capabilities for packet capture and analysis as well.
 
-Key Features to Look For: Real-time capturing: Ability to capture packets as they happen. Filtering: Options to filter packets based on protocols, IP addresses, or other criteria. Visualization: Graphical representation of data for easier analysis. Decoding: Ability to decode various protocols and display the contents in a human-readable format. Exporting: Options to export captured data for further analysis or reporting. Use Cases: Network Troubleshooting: Identify issues such as slow performance or connectivity problems. Security Analysis: Detect suspicious activity or unauthorized access attempts. Protocol Development: Analyze and debug custom protocols or applications. 
+Key Features to Look For:
+Real-time capturing: Ability to capture packets as they happen.
+Filtering: Options to filter packets based on protocols, IP addresses, or other criteria. 
+Visualization: Graphical representation of data for easier analysis. 
+Decoding: Ability to decode various protocols and display the contents in a human-readable format.
+Exporting: Options to export captured data for further analysis or reporting.
+Use Cases: 
+Network Troubleshooting: Identify issues such as slow performance or connectivity problems.'
+Security Analysis: Detect suspicious activity or unauthorized access attempts.
+Protocol Development: Analyze and debug custom protocols or applications. 
